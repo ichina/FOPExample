@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Realm (3.0.2):
+    - Realm/Headers (= 3.0.2)
+  - Realm/Headers (3.0.2)
+  - RealmSwift (3.0.2):
+    - Realm (= 3.0.2)
+  - RxSwift (4.0.0)
+  - Swinject (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - RealmSwift
+  - RxSwift
+  - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Realm: 6f23fd1f178a09342eac21bfa7c2bf4312a7a180
+  RealmSwift: 695393add1b8f9d5fa75dd16e6355cf3935f71e2
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  Swinject: afea49fd95f392b41171669f165842879c48fad6
+
+PODFILE CHECKSUM: 70a2a566205826fb7f4e59233624a3bc74d66f21
+
+COCOAPODS: 1.3.1
